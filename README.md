@@ -11,3 +11,4 @@ Steps:
 6- Click no to end the execution.
 
 Note: Uses regex to filter out all omegle subnets.
+Code is only one .py file.
